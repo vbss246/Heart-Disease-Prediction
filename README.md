@@ -3,7 +3,7 @@
 
 This repository implements a robust heart disease prediction system using 
 meta-ensemble machine learning (stacking) combined with explainable AI (XAI) techniques. 
-The pipeline covers data preprocessing, model training, evaluation, and interpretation, 
+The pipeline covers data preprocessing, model_training, evaluation, and interpretation, 
 providing both accuracy and transparency.
 
 ---
